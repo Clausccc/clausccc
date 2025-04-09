@@ -13,17 +13,30 @@ pip install selenium webdriver-manager
 ## 配置信息
 
 Name_company = "test1"  # 厂商名称
+
 Name_Domain = "test2"   # 域名或IP
+
 Vulnerability_category = "Web漏洞"  # 漏洞类别
+
 Name_title = "test3"    # 漏洞标题
+
 Vulnerability_id = "2"  # 漏洞选择（1为通用型，2为事件型）
+
 Vulnerability_Type = "信息泄露"  # 漏洞类型
+
 Vulnerability_weight = "0"  # 漏洞权重
+
 Vulnerability_Level = "中危"  # 漏洞等级
+
 activities = ""         # 参与活动（可选）
+
 Name_description = "test4"  # 简要描述
+
 Name_detail = "test5"   # 详细细节
+
 Name_repair = "test6"   # 修复方案
+
 Name_Industry = "信息传输"  # 所属行业（模糊匹配）
+
 target_sub_industry = "软件和信息技术服务业"  # 目标子行业（模糊匹配）
 
