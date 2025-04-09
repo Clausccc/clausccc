@@ -12,7 +12,7 @@ Chrome 浏览器：确保系统中已安装 Google Chrome。
 
 依赖安装：pip install selenium webdriver-manager
 
-！！第一次使用请取消注释第29行代码，登入账号后，再取消注释！！
+！！第一次使用请取消注释第29行代码，登入账号后，再注释29行！！
 
 ## 配置信息
 
